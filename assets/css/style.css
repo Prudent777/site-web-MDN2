@@ -1,18 +1,4 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
 
@@ -20,7 +6,7 @@
    * colors
    */
 
-  --smokey-black: hsl(0, 0%, 7%);
+  --smokey-black: hsl(143, 30%, 20%);
   --eerie-black: hsl(0, 0%, 9%);
   --radical-red: hsl(346, 100%, 58%);
   --white_a9: hsla(0, 0%, 100%, 0.09);
@@ -40,7 +26,7 @@
    */
 
   --gradient-1: linear-gradient(180deg, transparent, var(--smokey-black));
-  --gradient-2: linear-gradient(180deg,var(--smokey-black) 25%,hsla(0, 0%, 0%, 0.6) 80%);
+  --gradient-2: linear-gradient(180deg,var(--smokey-black) 25%,hsla(133, 34%, 25%, 0.6) 80%);
 
   /**
    * typography
@@ -75,7 +61,7 @@
    * shadow
    */
 
-  --shadow: 0 12px 30px -10px hsla(0, 0%, 14%, 0.1);
+  --shadow: 0 12px 30px -10px hsla(147, 39%, 28%, 0.1);
 
   /**
    * border radius
