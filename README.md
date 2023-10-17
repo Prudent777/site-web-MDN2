@@ -1,7 +1,6 @@
 # site-web-MDN2
 https://cozy-souffle-c97f59.netlify.app/
-Richard Ryan
-
+Ministère de la defense
 This is a photographer portfolio html template, made by codewithsadee.
 
 
