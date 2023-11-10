@@ -1,7 +1,7 @@
 # site-web-MDN2
 https://cozy-souffle-c97f59.netlify.app/
 Ministère de la defense
-This is a photographer portfolio html template, made by codewithsadee.
+This is a photographer portfolio html template, made by Prudent Ngaipera dong.
 
 
 
